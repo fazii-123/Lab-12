@@ -4,3 +4,7 @@ Faizan Ahmed
    
 Addition
 cout<<"sum of two number"<<a+b<<endl;
+
+Subtraction
+cout<<"subtraction of two number"<<a-b<<endl;
+
