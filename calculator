@@ -8,3 +8,8 @@ cout<<"sum of two number"<<a+b<<endl;
 Subtraction
 cout<<"subtraction of two number"<<a-b<<endl;
 
+Multiplication
+cout<<"multiplication  of two number"<<a*b<<endl;
+
+Division
+cout<<" Division of two number"<<a/b<<endl;
