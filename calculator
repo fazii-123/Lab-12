@@ -1,2 +1,6 @@
 Faizan Ahmed
 23-st-043
+
+   
+Addition
+cout<<"sum of two number"<<a+b<<endl;
